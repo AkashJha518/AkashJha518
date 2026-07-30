@@ -41,7 +41,8 @@ Check out some of my best work on my [GitHub repositories](https://github.com/ak
 ### 🚀 My GitHub Stats
 
 [![Akash's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=akashjha518&theme=radical)](https://github.com/akashjha518/github-readme-stats-fast)
-[![GitHub Streak](https://streak-stats.demolab.com?user=akashjha518&theme=radical)](https://git.io/streak-stats)
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=akashjha518&theme=radical)](https://git.io/streak-stats)-->
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akashjha518&layout=compact&theme=radical)
 
