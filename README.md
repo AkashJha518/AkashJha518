@@ -2,8 +2,8 @@
 
 I'm a postgraduate passionate about software development with expertise in Python, C/C++, and web technologies. I love building projects and solving real-world problems through code.
 
-🔹 Skills: Python, C/C++, HTML, CSS, JavaScript, ReactJS<br>
-🔹 Interests: Web Development, Python Development, Content Moderation<br>
+🔹 Skills: Python, C/C++, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS<br>
+🔹 Interests: Web Development, Python Development<br>
 🔹 Currently: Seeking opportunities to apply my skills, grow professionally, and contribute to impactful projects
 
 Feel free to explore my repositories and connect with me!
@@ -14,8 +14,6 @@ Feel free to explore my repositories and connect with me!
 
 * 🎓 Recently completed my postgraduate studies with a strong interest in software development and web technologies.
 * 🐍 Skilled in **Python, C/C++, HTML, CSS, JavaScript, and ReactJS**.
-* 💻 Experienced in **WordPress website and theme customization** for personal projects.
-* 🚀 Passionate about **Web Development, Digital Marketing, Social Media Optimization (SMO), and Content Moderation**.
 * 🌱 Continuously learning new technologies and building projects to enhance my skills.
 
 ---
